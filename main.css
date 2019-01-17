@@ -1,0 +1,25 @@
+body {
+	width: 100%;
+	margin: 5px;
+
+	font-family: 'Thasadith', sans-serif;
+	color: rgba(255,255,0,0.9);
+	font-size: 18px;
+	text-align: center;
+
+	background-color: #000000;
+	background-image: url("https://www.transparenttextures.com/patterns/rocky-wall.png");
+	/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+#image {
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.9);
+  max-width: 100%;
+	height:auto;
+	margin:auto;
+}
+
+#tribute-info {
+	text-align: justify;
+  padding: 35px;
+}
