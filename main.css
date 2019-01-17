@@ -13,6 +13,7 @@ body {
 }
 
 #image {
+	display: block;
 	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.9);
   max-width: 100%;
 	height:auto;
